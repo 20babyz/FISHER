@@ -18,6 +18,7 @@ FISHER는 실시간 통화 음성 데이터를 분석해 **보이스피싱 및 �
 ---
 
 ## 주요 기능 및 시스템 구조
+![Total-arch](https://github.com/user-attachments/assets/a867b07c-11e8-4c2f-9067-a16bd3c8ce01)
 
 ### 1. AI 기반 보이스피싱 탐지
 - **멀티모달 탐지 모델(MS-Module)**
