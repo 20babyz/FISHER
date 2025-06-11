@@ -1,0 +1,9 @@
+[submodule "fisher-app"]
+	path = fisher-app
+	url = git@github.com:20babyz/fisher-app.git
+[submodule "deepvoice-ai"]
+	path = deepvoice-ai
+	url = git@github.com:20babyz/deepvoice_server.git
+[submodule "voice-phishing-ai"]
+	path = voice-phishing-ai
+	url = git@github.com:20babyz/voice-valid-ai.git
